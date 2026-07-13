@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krutoykrout.github.io/Vegsa/sitemap.xml
